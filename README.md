@@ -4,3 +4,4 @@ add merge
 ff merge again 
 append bug fix
 now studing bug fix how to do
+new line be added at 27 Sep
